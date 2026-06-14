@@ -1,0 +1,12 @@
+# Secrets — never publish your API key
+.env
+
+# Virtual environment — others rebuild their own
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Generated reports
+reports/
